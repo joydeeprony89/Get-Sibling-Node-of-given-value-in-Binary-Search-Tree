@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Get_Sibling_Node_of_given_value_in_Binary_Search_Tree</RootNamespace>
+  </PropertyGroup>
+
+</Project>
